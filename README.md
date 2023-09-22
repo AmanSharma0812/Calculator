@@ -15,13 +15,11 @@ This is a simple calculator project implemented in [programming language]. It pr
 
 ## Getting Started
 
-### Prerequisites
 
-- [List any prerequisites here, e.g., Python 3.7+]
 
 ### Installation
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/AmanSharma0812/calculator.git
